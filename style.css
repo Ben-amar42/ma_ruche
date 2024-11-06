@@ -50,9 +50,6 @@ li {
     margin-top: 15px;
 }
 
-.h3 {
-    
-}
 
 /* HEADER */
 
@@ -85,6 +82,23 @@ h1 {
     font-size: 32px;
 }
 
-.engagement {
+.p {
+    height: 45%;
+    width: 45%;
+}
 
+h3 {
+    width: 100%;
+}
+
+h4 {
+    width: 100%;
+}
+
+.width30 {
+    width: 30%;
+}
+
+.width100 {
+    width: 100%;
 }
