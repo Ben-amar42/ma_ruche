@@ -73,7 +73,7 @@ header {
 }
 
 .hero h2 {
-    font-family: "WindSong"; cursive;
+    font-family: "WindSong", cursive;
     font-size: 130px;
     font-weight: 500;
 }
@@ -89,6 +89,7 @@ h1 {
 
 h3 {
     width: 100%;
+    margin-bottom: 32px;
 }
 
 h4 {
@@ -96,9 +97,18 @@ h4 {
 }
 
 .width30 {
-    width: 30%;
+    width: 267px;
 }
 
 .width100 {
     width: 100%;
+}
+
+section,footer {
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+
+.p16 {
+    padding: 16px;
 }
